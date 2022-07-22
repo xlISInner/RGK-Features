@@ -186,3 +186,58 @@ Idk what you expect to find here
    - Pre-Made Themes
    - Custom Themes
    - Config System
+
+# Da Hood
+ + Aimbot
+  - Aimlock
+  -  Fov Circle
+  -  Visible Check
+  -  Trigger Bot
+  -  Fully Customisable Aimlock
+ + Silent Aimbot
+  - Fov Circle
+  - Fully Customisable
+ 
+ + ESP
+  - Boxes
+  - Names
+  - Tracers
+  - Chams (Outline and Inline Color)
+  - Cash ESP
+  - Full Bright
+ 
+ + Misc
+  - Hitbox Expander (for tools)
+  - No Jump Cooldown
+  - Fly (You can noclip with the fly and carry people through walls)
+  - Anti-Slow
+  - Auto Collect Nearby Cash
+  - Auto Block
+  - No Block Animation
+  - Auto Stomp
+  - Reveal Chat
+  - Anti Pepper Spray Blur
+  - Invisibility
+  - Headless
+  - Korblox
+ 
+ + Farms
+  - Fast Autofarm
+  - Auto Collect Cash
+ 
+ + Teleports
+  - Nuclear Sign
+  - Bank
+  - Hamburgers
+  - Gunshop
+  - Safezone
+  - Lava Base
+  - Gunshop 2
+  - Aliens
+ 
+ + UI Settings
+  - Custom Menu Keybind
+  - Watermark
+  - Fully customisable menu
+  - Custom themes and pre-made themes
+  - Configuration System
