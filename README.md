@@ -129,7 +129,6 @@
 
 # Arsenal
 
-+ Arsenal Features
 + Aimbot:
  + Legit Aimbot
   + Fully Customisable
