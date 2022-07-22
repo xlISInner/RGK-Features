@@ -96,7 +96,6 @@
 
 # Murder Mystery 2
 
-+ Murder Mystery 2 Features:
 + Aimbots
  + Camera Aimbot
  + Sherif Revolver Silent Aimbot
@@ -108,9 +107,11 @@
  + Boxes
  + Tracers
  + Names
- + Chams Esp (Will draw a cham over every player in game with the specific color for their team [Murder will be red, sherif blue and so on]. You can also customise these colors)
+ + Chams Esp
  + Low Graphics Mode
  + RTX Mode
+ 
+ 
 + Misc
  + Walkspeed
  + Jump Power
@@ -118,6 +119,8 @@
  + Automatically Pickup Sherif gun when the sherif dies
  + Rejoin Server
  + Join Smallest Server
+
+
 + Autofarm
  + Coins Automfarm
  + Coins Autofarm teleport speed selector.
