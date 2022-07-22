@@ -190,17 +190,18 @@
    + Config System
 
 # Da Hood
- + Aimbot
++ Aimbot
   + Aimlock
   +  Fov Circle
   +  Visible Check
   +  Trigger Bot
   +  Fully Customisable Aimlock
- + Silent Aimbot
+
++ Silent Aimbot
   + Fov Circle
   + Fully Customisable
  
- + ESP
++ ESP
   + Boxes
   + Names
   + Tracers
@@ -208,7 +209,7 @@
   + Cash ESP
   + Full Bright
  
- + Misc
++ Misc
   + Hitbox Expander (for tools)
   + No Jump Cooldown
   + Fly (You can noclip with the fly and carry people through walls)
@@ -223,10 +224,12 @@
   + Headless
   + Korblox
  
- + Farms
+ 
++ Farms
   + Fast Autofarm
   + Auto Collect Cash
- 
+  
+  
  + Teleports
   + Nuclear Sign
   + Bank
