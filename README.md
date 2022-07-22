@@ -97,34 +97,34 @@
 # Murder Mystery 2
 
 + Aimbots
- + Camera Aimbot
- + Sherif Revolver Silent Aimbot
- + Sherif Revolver Silent Aimbot Prediction Selector
- + Murder Knife Hitbox Expander
- + Murder Kill All
++ Camera Aimbot
++ Sherif Revolver Silent Aimbot
++ Sherif Revolver Silent Aimbot Prediction Selector
++ Murder Knife Hitbox Expander
++ Murder Kill All
  
 + Visuals
- + Boxes
- + Tracers
- + Names
- + Chams Esp
- + Low Graphics Mode
- + RTX Mode
++ Boxes
++ Tracers
++ Names
++ Chams Esp
++ Low Graphics Mode
++ RTX Mode
  
  
 + Misc
- + Walkspeed
- + Jump Power
- + Gravity Changer
- + Automatically Pickup Sherif gun when the sherif dies
- + Rejoin Server
- + Join Smallest Server
++ Walkspeed
++ Jump Power
++ Gravity Changer
++ Automatically Pickup Sherif gun when the sherif dies
++ Rejoin Server
++ Join Smallest Server
 
 
 + Autofarm
- + Coins Automfarm
- + Coins Autofarm teleport speed selector.
- + Autofarm Bypasses fake coins(that cannot be collected and that are meant to block autofarms)
++ Coins Automfarm
++ Coins Autofarm teleport speed selector.
++ Autofarm Bypasses fake coins(that cannot be collected and that are meant to block autofarms)
 
 
 # Arsenal
