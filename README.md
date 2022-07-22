@@ -164,15 +164,15 @@
      + Weapon Material
      + Third Person
      + Third Person FOV
-  + Chams
-   + Chams Color
-   + Teammates Chams
-  + World Modulation
-   + Tint Color
-   + Saturation
-   + Contrast
-   + Bloom
-    + Bloom Modifications
+    + Chams
+      + Chams Color
+      + Teammates Chams
+    + World Modulation
+      + Tint Color
+      + Saturation
+      + Contrast
+      + Bloom
+      + Bloom Modifications
 
 + Misc
  + Bunny Hop
