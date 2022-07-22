@@ -130,7 +130,7 @@
 # Arsenal
 
 + Aimbot:
- + Legit Aimbot
+  + Legit Aimbot
   + Fully Customisable
   + Fov Circle
   + Fov
