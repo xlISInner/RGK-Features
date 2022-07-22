@@ -127,38 +127,43 @@
 # Arsenal
 
 + Arsenal Features
- + Aimbot:
-  + Legit Aimbot
-   + Fully Customisable
-   + Fov Circle
-   + Fov
-   + Team Check
-   + Fov Circle Customisation
-   + Hitbox Selector
- + TriggerBot
++ Aimbot:
+ + Legit Aimbot
+  + Fully Customisable
+  + Fov Circle
+  + Fov
+  + Team Check
+  + Fov Circle Customisation
+  + Hitbox Selector
+  
+  
++ TriggerBot
   + Trigger Bot Delay
- + Silent Aimbot
+  
+  
++ Silent Aimbot
   + Fully Cusomitsalbe
   + Fov Circle
   + Fov
   + Team Check
   + Fov Circle Customisation
   + Hitbox Selector
- + Visuals
+  
+  
++ Visuals
   + Tracers
   + Boxes
   + Name ESP
-    + Use team Color
-    + Custom ESP Colors
-    + Boxes Face Camera
-  + LocalPlayer 
+   + Use team Color
+   + Custom ESP Colors
+   + Boxes Face Camera
+   + LocalPlayer 
      + Arms Color
      + Arms Material
      + Weapon Color
      + Weapon Material
      + Third Person
      + Third Person FOV
-  
   + Chams
    + Chams Color
    + Teammates Chams
@@ -168,23 +173,25 @@
    + Contrast
    + Bloom
     + Bloom Modifications
-  + Misc
-   + Bunny Hop
-   + Infinite Jump
-   + Gun Mods
-    + Fire-Rate
-    + Fast Reload
-    + Gun Range
-    + Infinite Ammo
+
++ Misc
+ + Bunny Hop
+ + Infinite Jump
+ + Gun Mods
+ + Fire-Rate
+ + Fast Reload
+ + Gun Range
+ + Infinite Ammo
   
-  + Rage-Bot
++ Rage-Bot
    + Auto-Shoot (Work in Proggress)
    + Kill All
    + Wall Bang (Shoot Through Walls)
    + Anti Aim
-     + Yaw (Back, Spin, Jitter)
-     + Custom Spin Speed
-  + Menu(UI)
+   + Yaw (Back, Spin, Jitter)
+   + Custom Spin Speed
+     
++ Menu(UI)
    + Pre-Made Themes
    + Custom Themes
    + Config System
@@ -230,7 +237,7 @@
   + Auto Collect Cash
   
   
- + Teleports
++ Teleports
   + Nuclear Sign
   + Bank
   + Hamburgers
@@ -240,7 +247,7 @@
   + Gunshop 2
   + Aliens
  
- + UI Settings
++ UI Settings
   + Custom Menu Keybind
   + Watermark
   + Fully customisable menu
