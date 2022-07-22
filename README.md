@@ -174,16 +174,17 @@
       + Bloom
       + Bloom Modifications
 
-+ Misc
- + Bunny Hop
- + Infinite Jump
- + Gun Mods
- + Fire-Rate
- + Fast Reload
- + Gun Range
- + Infinite Ammo
+ 
+ + Misc
+  + Bunny Hop
+  + Infinite Jump
+  + Gun Mods
+  + Fire-Rate
+  + Fast Reload
+  + Gun Range
+  + Infinite Ammo
   
-+ Rage-Bot
+ + Rage-Bot
    + Auto-Shoot (Work in Proggress)
    + Kill All
    + Wall Bang (Shoot Through Walls)
@@ -191,7 +192,7 @@
    + Yaw (Back, Spin, Jitter)
    + Custom Spin Speed
      
-+ Menu(UI)
+ + Menu(UI)
    + Pre-Made Themes
    + Custom Themes
    + Config System
