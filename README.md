@@ -176,13 +176,13 @@
 
  
  + Misc
- + Bunny Hop
- + Infinite Jump
- + Gun Mods
- + Fire-Rate
- + Fast Reload
- + Gun Range
- + Infinite Ammo
+  + Bunny Hop
+  + Infinite Jump
+  + Gun Mods
+  + Fire-Rate
+  + Fast Reload
+  + Gun Range
+  + Infinite Ammo
   
  + Rage-Bot
    + Auto-Shoot (Work in Proggress)
