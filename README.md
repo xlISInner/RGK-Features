@@ -262,3 +262,8 @@
   + Fully customisable menu
   + Custom themes and pre-made themes
   + Configuration System
+
+# CBRO
+
++ Invite only
+  + Only a few selected users are invited into the cbr script. Features and gui is private.
