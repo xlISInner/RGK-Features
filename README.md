@@ -100,7 +100,7 @@
   + Preset Themes
   + Configuration System so that you don't need to manually make your settings everytime you execute the script!
 
-# Murder Mystery 2
+# Murder Mystery 2 (Features patched, not fully working)
 
 + Aimbot
   + Camera Aimbot
