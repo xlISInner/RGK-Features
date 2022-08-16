@@ -21,7 +21,7 @@
     + Kagune Material / Kagune Color
     + Quinque Material / Quinque Color
  
-+ Misc
++ LocalPlayer
   + WalkSpeed
     + Will bypass Sushi's anticheat meaning you can set any Speed you would like up to 1000 without your game crashing!
   + Jump Power
@@ -30,6 +30,7 @@
      + Will no longer cause lag like in the free version of the script!
   + Gravity Changer
   + Staff Notifier (Will automatically kick you if a Ro-Ghoul staff member joins your game!)
+  + No block knockback (Will remove the push back that happens you block an attack!)
   + Invisibility (Will make you invisible. Visible for everyone!)
   + Remove NameTag (Will remove the name above your character! Visible for everyone!)
   + Join smallest Server
@@ -58,6 +59,7 @@
   + Auto Reputation Farm
   + Auto Cashout
   + Auto Kick(When someone joins your server!)
+  + No Roblox AFK/Idle kick
   + Server hopper
     + It will server hop until it finds the boss that you chose! You can find Gya or any other boss in a few minutes! (https://www.youtube.com/watch?v=bphnOkCRYhs)
  
