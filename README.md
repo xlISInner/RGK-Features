@@ -31,6 +31,8 @@
   + Gravity Changer
   + Staff Notifier (Will automatically kick you if a Ro-Ghoul staff member joins your game!)
   + No block knockback (Will remove the push back that happens you block an attack!)
+  + Floss (Will do the "Floss" dance visible for everyone.)
+  + Remove Animations (Will remove SOME of the animations.)
   + Invisibility (Will make you invisible. Visible for everyone!)
   + Remove NameTag (Will remove the name above your character! Visible for everyone!)
   + Join smallest Server
