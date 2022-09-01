@@ -297,7 +297,7 @@
   + Kill Sound (Skeet, Neverlose, Electro)
   + Wallbang
   
-+ Anit-Aim
++ Anti-Aim
   + Pitch (Up, Down)
   
 + UI Settings
