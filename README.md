@@ -271,3 +271,35 @@
 
 + Invite only
   + Only a few selected users are invited into the cbr script. Features and gui is private.
+  
+# No-Scope Arcade
+
++ Aimbot
+  + Silent Aimbot
+  + Fov Circle
+  + Fov Radius
+  + Fov Circle Sides
+  + Fov Circle Thickness
+  + Fov Circle Color
+  + Hitbox Selector (Head, Torso)
+ 
++ ESP
+  + Boxes
+  + Names
+  + Tracers
+  + Third Person (With Keybind)
+  + ESP Color
+  + Third Person Distance
+  
++ Misc
+  + B-Hop
+  + Infinite Jump
+  + Kill Sound (Skeet, Neverlose, Electro)
+  + Wallbang
+  
++ Anit-Aim
+  + Pitch (Up, Down)
+  
++ UI Settings
+  + Custom UI Themes
+  + Custom Configuration System
