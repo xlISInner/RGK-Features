@@ -58,7 +58,7 @@
   + Arena Top
   
 
-+ AutoFarm
++ AutoFarm (Do not buy for this)
   + Auto Collect corpses
   + Auto Reputation Farm
   + Auto Cashout
